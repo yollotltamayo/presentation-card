@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/presentation-card/static/css/main.e2a064df.chunk.css",
+    "main.js": "/presentation-card/static/js/main.938b885b.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.938b885b.chunk.js.map",
+    "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
+    "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
+    "static/css/2.6176cce6.chunk.css": "/presentation-card/static/css/2.6176cce6.chunk.css",
+    "static/js/2.d852d013.chunk.js": "/presentation-card/static/js/2.d852d013.chunk.js",
+    "static/js/2.d852d013.chunk.js.map": "/presentation-card/static/js/2.d852d013.chunk.js.map",
+    "index.html": "/presentation-card/index.html",
+    "precache-manifest.5c0806799cf54410ec3f209c64d35dc5.js": "/presentation-card/precache-manifest.5c0806799cf54410ec3f209c64d35dc5.js",
+    "service-worker.js": "/presentation-card/service-worker.js",
+    "static/css/2.6176cce6.chunk.css.map": "/presentation-card/static/css/2.6176cce6.chunk.css.map",
+    "static/css/main.e2a064df.chunk.css.map": "/presentation-card/static/css/main.e2a064df.chunk.css.map",
+    "static/js/2.d852d013.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.d852d013.chunk.js.LICENSE.txt",
+    "static/media/custom.png": "/presentation-card/static/media/custom.b1a050db.png",
+    "static/media/github.jpg": "/presentation-card/static/media/github.f3455718.jpg",
+    "static/media/img4.JPG": "/presentation-card/static/media/img4.8f9cc165.JPG",
+    "static/media/img5.jpeg": "/presentation-card/static/media/img5.ba0c3e62.jpeg",
+    "static/media/lil_cat.png": "/presentation-card/static/media/lil_cat.d94a163a.png",
+    "static/media/logo.svg": "/presentation-card/static/media/logo.5d5d9eef.svg",
+    "static/media/metodos_numericos.png": "/presentation-card/static/media/metodos_numericos.8a792130.png",
+    "static/media/resume.pdf": "/presentation-card/static/media/resume.5c3d6135.pdf",
+    "static/media/teoria_grafo.png": "/presentation-card/static/media/teoria_grafo.003cbb8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f56a3020.js",
+    "static/css/2.6176cce6.chunk.css",
+    "static/js/2.d852d013.chunk.js",
+    "static/css/main.e2a064df.chunk.css",
+    "static/js/main.938b885b.chunk.js"
+  ]
+}
