@@ -26,8 +26,16 @@ class Editor extends Component{
   }
   runCode = () => {
        let v = Compiler(this.state.outputText);
-      console.log(v)
-        let s = JSON.stringify(v);
+      let s = ""
+      if(v.Errors.length > 0)
+            for(let y = 0;y < v.Errors.length;y++){
+              s += v.Errors[y];
+              s+= '\0';
+        }else{
+            s = v.Value;
+        }
+      console.log(s)
+      //  let s = JSON.stringify(v);
 
       this.setState({actCode:s})
   }
@@ -45,10 +53,12 @@ class Editor extends Component{
         <Row>
         <Col >
         <CodeMirror
+            value = '5\n7'
             options={{
                 mode: 'brainfuck',
                 theme:theme,
-                lineNumbers: true
+                lineNumbers: true,
+                scrollbarStyle: "native"
             }}
             onChange={(editor, data, value) => {
                 this.setState({
@@ -67,6 +77,7 @@ class Editor extends Component{
             options={{
                 mode: 'brainfuck',
                 theme:'elegant',
+                lineSeparator:'\0',
                 lineNumbers: true,
                 readOnly:true
             }}

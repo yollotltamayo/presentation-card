@@ -27,7 +27,7 @@ export function Compiler(Code){
     let status = Check(Code);
     let val = "";
     let stat = {
-    Value : [],
+    Value : "",
     Errors: []
 }
 
@@ -61,11 +61,11 @@ export function Compiler(Code){
 
   const char = Code[i];
 
-    if(isLooping) {
-      if(char === "[") innerLoops++;
+    if(loop) {
+      if(char === "[") inloop++;
         if(char === "]") {
-          if(innerLoops === 0) isLooping = false;
-          else innerLoops--;
+          if(inloop === 0) loop = false;
+          else inloop--;
         }
       continue;
     }
@@ -78,13 +78,16 @@ export function Compiler(Code){
         tape[ptr]--;
         break;
       case ',':
-        tape[ptr] = prompt()[0].charCodeAt()
+        tape[ptr] = prompt("Input")[0].charCodeAt()
         break;
       case '.':
         console.log(String.fromCharCode(tape[ptr]));
-            stat.Value.push(String.fromCharCode(tape[ptr]));
+            if(tape[ptr] >= 33 && tape[ptr] <= 126)
+                stat.Value += String.fromCharCode(tape[ptr]);
+            else
+                stat.Value += String(tape[ptr]);
         break;
-      case '>':
+        case '>':
         ptr++;
         tape[ptr] = tape[ptr] || 0;
         break;
@@ -93,7 +96,7 @@ export function Compiler(Code){
         tape[ptr] = tape[ptr] || 0;
         break;
       case '[':
-        tape[ptr] === 0 ? isLooping = true: loopStack.push(i);
+        tape[ptr] === 0 ? loop = true: loopStack.push(i);
         break;
       case ']':
         tape[ptr] !== 0 ? i = loopStack[loopStack.length-1]: loopStack.pop();
