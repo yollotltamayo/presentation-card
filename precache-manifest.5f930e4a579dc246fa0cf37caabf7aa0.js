@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04cb1ecfc808178aef7d3248b97f24dd",
+    "revision": "8d257c19e31fdf08e4b6e909cf6a883c",
     "url": "/presentation-card/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "3ce32b5fd2bc2df03bab",
+    "revision": "dbe57a54aa0b3369f40a",
     "url": "/presentation-card/static/css/main.e731bde8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/js/2.6870a27a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3ce32b5fd2bc2df03bab",
-    "url": "/presentation-card/static/js/main.9facb6a6.chunk.js"
+    "revision": "dbe57a54aa0b3369f40a",
+    "url": "/presentation-card/static/js/main.246ff013.chunk.js"
   },
   {
     "revision": "c276c35dfcfefc0a5534",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/media/resume.5c3d6135.pdf"
   },
   {
-    "revision": "ea3de1cd0291d47ea3ee0c8a2c467178",
-    "url": "/presentation-card/static/media/teoria_grafo.ea3de1cd.jp2"
+    "revision": "cae770566b0948e35fb7c8e1d3014753",
+    "url": "/presentation-card/static/media/teoria_grafo.cae77056.jp2"
   },
   {
     "revision": "309c23151eb9487337a56c9068cc713c",
