@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efce8ecf8c29bb19982a4cf227c15a5d",
+    "revision": "3f2eb851d0ad24a30e7948fc3ac951b9",
     "url": "/presentation-card/index.html"
   },
   {
-    "revision": "d641d61bf36600228992",
-    "url": "/presentation-card/static/css/2.6176cce6.chunk.css"
+    "revision": "69f0f9ca2b4e2183a957",
+    "url": "/presentation-card/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "a49de98c5a21ea6a2b90",
+    "revision": "b6575574e4aa6675954f",
     "url": "/presentation-card/static/css/main.e731bde8.chunk.css"
   },
   {
-    "revision": "d641d61bf36600228992",
-    "url": "/presentation-card/static/js/2.fc7815e4.chunk.js"
+    "revision": "69f0f9ca2b4e2183a957",
+    "url": "/presentation-card/static/js/2.6870a27a.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/presentation-card/static/js/2.fc7815e4.chunk.js.LICENSE.txt"
+    "url": "/presentation-card/static/js/2.6870a27a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a49de98c5a21ea6a2b90",
-    "url": "/presentation-card/static/js/main.5ea5b560.chunk.js"
+    "revision": "b6575574e4aa6675954f",
+    "url": "/presentation-card/static/js/main.dfbe9698.chunk.js"
   },
   {
     "revision": "c276c35dfcfefc0a5534",
@@ -32,24 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/media/custom.b1a050db.png"
   },
   {
-    "revision": "f34557184984b6e95dc1d6d28fcb54e6",
-    "url": "/presentation-card/static/media/github.f3455718.jpg"
-  },
-  {
-    "revision": "8f9cc16567102f17f6cd3900a71e1bd0",
-    "url": "/presentation-card/static/media/img4.8f9cc165.JPG"
-  },
-  {
     "revision": "ba0c3e62d7437bd1712d9cc621109ef7",
     "url": "/presentation-card/static/media/img5.ba0c3e62.jpeg"
   },
   {
     "revision": "d94a163a5eb97c12061ef75e3069e26d",
     "url": "/presentation-card/static/media/lil_cat.d94a163a.png"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/presentation-card/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "8a792130904e46762622c56d5688a65b",
