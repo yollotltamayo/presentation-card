@@ -1,4 +1,3 @@
-import im5 from '../assets/img4.JPG'
 import tg from '../assets/teoria_grafo.png'
 import mn from '../assets/metodos_numericos.png'
 
@@ -10,13 +9,22 @@ const Data =
             title : " Grafos",
             text : "Una aplicacion creada para mostrar matrices adyacentes e incidentes de un grafo dirigio o no dirigido",
             tag: true,
-            link:"https://grafosenteoria.herokuapp.com/"
+            link:"https://grafosenteoria.herokuapp.com/",
+            check:"Echale un visazo"
         },
         {
             image : mn,
             title : "Metodos Numericos",
             text : "Una aplicacion creada para mostrar matrices adyacentes e incidentes de un grafo dirigio o no dirigido",
             tag: true,
+            link:"https://metodos-dos.herokuapp.com/metodos/",
+            check:"Echale un visazo"
+        },
+        {
+            image : mn,
+            title : "Metodos Numericos",
+            text : "Una aplicacion creada para mostrar matrices adyacentes e incidentes de un grafo dirigio o no dirigido",
+            tag: false,
             link:"https://metodos-dos.herokuapp.com/metodos/"
         },
         {
@@ -24,7 +32,8 @@ const Data =
             title : "Metodos Numericos",
             text : "Una aplicacion creada para mostrar matrices adyacentes e incidentes de un grafo dirigio o no dirigido",
             tag: true,
-            link:"https://metodos-dos.herokuapp.com/metodos/"
+            link:"https://metodos-dos.herokuapp.com/metodos/",
+            check:"Echale un visazo"
         },
     ]
 

@@ -1,16 +1,14 @@
-import React,{Component} from 'react'
+import React from 'react'
 import Card from 'react-bootstrap/Card'
 //import Card from './CardUI';
 import CardColumns from 'react-bootstrap/CardColumns'
-import CardDeck from 'react-bootstrap/CardDeck'
 import Data from '../Data/Data'
+import Data2 from '../Data/Data2'
 //import Col from 'react-bootstrap/Col'
 //import './card-sty
-import Image from 'react-bootstrap/Image'
 import Button from 'react-bootstrap/Button'
 import cat from '../assets/custom.png'
-import cat2 from '../assets/github.jpg'
-const Cardses= () => {
+function Cardses(props) {
     const render = (card,index ) => {
             return (
                 <Card style = {{ backgroundColor : 'white' }}>
@@ -21,28 +19,37 @@ const Cardses= () => {
                         {card.text}
                     </Card.Text>
                     {
-                        card.tag == true &&
-                            <center><Card.Footer><Button href={card.link} target="_blank" variant="primary" size="lg">Check it out!</Button>{' '}</Card.Footer></center>
+                        card.tag === true &&
+                            <center><Card.Footer><Button href={card.link} target="_blank" variant="primary" size="lg">{card.check}!</Button>{' '}</Card.Footer></center>
                     }
                     </Card.Body>
                 </Card>
 
             );
     };
-    return Data.map(render)
+    let Datax;
+    if(props.data === 1){
+         Datax = Data
+    }else{
+       Datax = Data2
+    }
+
+    return Datax.map(render)
 
 };
-const Cardse = () => {
+function Cardse(props) {
+    let  eng = "Checa mi github"
+    let  esp = "Check my github"
     return(
         <CardColumns>
-            <Cardses></Cardses>
+            <Cardses data ={props.data}/>
             <Card >
         <Card.Body >
             <Card.Img src={cat} alt="Card image"/>
         </Card.Body>
                 <h4>
-                    <a target="_blank" href = "https://github.com/yollotltamayo">
-                <center><small className="text-muted">Check my github</small></center>
+                    <a  rel="noopener noreferrer" target="_blank" href = "https://github.com/yollotltamayo">
+                        <center><small className="text-muted">{props.data !== 1?esp:eng}</small></center>
                     </a>
                 </h4>
         </Card>
