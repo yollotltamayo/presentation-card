@@ -25,7 +25,6 @@ function Check(Code){
 
 export function Compiler(Code){
     let status = Check(Code);
-    let val = "";
     let stat = {
     Value : "",
     Errors: []
@@ -39,17 +38,13 @@ export function Compiler(Code){
         stat.Errors.push("ENCLOSED BRACKETS")
         return stat;
     }
-    var Stack= [];
-    var loop = false;
-    var inloop = 0;
-    const MAXN = 10000;
-    let safeloop = 0;
-    var program = Array(1000).fill(0); 
-       let tape       = Array(100).fill(0);
-  let ptr        = 0;
-  let isLooping  = false;
-  let loopStack  = [];
-  let innerLoops = 0;
+    var    loop       =  false;
+    var    inloop     =  0;
+    const  MAXN       =  10000;
+    let    safeloop   =  0;
+    let    tape       =  Array(1000).fill(0);
+    let    ptr        =  0;
+    let    loopStack  =  [];
 
   for( let i = 0; i < Code.length; i++ ) {
    safeloop++;

@@ -2,16 +2,12 @@ import React, { Component } from "react";
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 import Button from 'react-bootstrap/Button'
-import Jumbotron from 'react-bootstrap/Jumbotron'
 import Container from 'react-bootstrap/Container'
 import {UnControlled as CodeMirror} from 'react-codemirror2'
-import {Controlled as CodeMirror2} from 'react-codemirror2'
 import {Compiler}from '../Compiler/Compiler'
 import './editor-style.css'
 require('codemirror/mode/brainfuck/brainfuck');
 require('codemirror/lib/codemirror.css');
-require('codemirror/theme/material.css');
-require('codemirror/theme/gruvbox-dark.css');
 require('codemirror/theme/elegant.css');
 require('codemirror/theme/zenburn.css');
 const theme = 'zenburn';
@@ -53,7 +49,7 @@ class Editor extends Component{
         <Row>
         <Col >
         <CodeMirror
-            value = '5\n7'
+            value = '+++.'
             options={{
                 mode: 'brainfuck',
                 theme:theme,

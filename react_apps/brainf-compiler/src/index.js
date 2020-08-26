@@ -4,8 +4,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import Container from 'react-bootstrap/Container'
-import Row from 'react-bootstrap/Row'
-import Col from 'react-bootstrap/Col'
 import Editor from './Editor/Editor'
 import Header from './Header/Header'
 ReactDOM.render(

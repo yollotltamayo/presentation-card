@@ -1,7 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
-import Button from 'react-bootstrap/Button'
 import Jumbotron from 'react-bootstrap/Jumbotron'
 import Container from 'react-bootstrap/Container'
 import './header-style.css'
