@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/presentation-card/static/css/main.e731bde8.chunk.css",
-    "main.js": "/presentation-card/static/js/main.09dc8f5f.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.09dc8f5f.chunk.js.map",
+    "main.js": "/presentation-card/static/js/main.9facb6a6.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.9facb6a6.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
     "static/js/2.6870a27a.chunk.js": "/presentation-card/static/js/2.6870a27a.chunk.js",
     "static/js/2.6870a27a.chunk.js.map": "/presentation-card/static/js/2.6870a27a.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.c46e1db3cb3e9fa2924ff956632a71fd.js": "/presentation-card/precache-manifest.c46e1db3cb3e9fa2924ff956632a71fd.js",
+    "precache-manifest.c60c7f6234cf43a8b6e6f5407f189647.js": "/presentation-card/precache-manifest.c60c7f6234cf43a8b6e6f5407f189647.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
     "static/css/main.e731bde8.chunk.css.map": "/presentation-card/static/css/main.e731bde8.chunk.css.map",
     "static/js/2.6870a27a.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.6870a27a.chunk.js.LICENSE.txt",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
-    "static/media/img5.jp2": "/presentation-card/static/media/img5.a5c1c48d.jp2",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.2aa88805.jp2",
     "static/media/resume.pdf": "/presentation-card/static/media/resume.5c3d6135.pdf",
-    "static/media/teoria_grafo.jp2": "/presentation-card/static/media/teoria_grafo.ea3de1cd.jp2"
+    "static/media/teoria_grafo.jp2": "/presentation-card/static/media/teoria_grafo.ea3de1cd.jp2",
+    "static/media/yo.jp2": "/presentation-card/static/media/yo.309c2315.jp2"
   },
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.6870a27a.chunk.js",
     "static/css/main.e731bde8.chunk.css",
-    "static/js/main.09dc8f5f.chunk.js"
+    "static/js/main.9facb6a6.chunk.js"
   ]
 }

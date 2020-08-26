@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef367c271b9700679d6cd3b8c600e7e3",
+    "revision": "04cb1ecfc808178aef7d3248b97f24dd",
     "url": "/presentation-card/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "cd7284a8f1dd362581dc",
+    "revision": "3ce32b5fd2bc2df03bab",
     "url": "/presentation-card/static/css/main.e731bde8.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/presentation-card/static/js/2.6870a27a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd7284a8f1dd362581dc",
-    "url": "/presentation-card/static/js/main.09dc8f5f.chunk.js"
+    "revision": "3ce32b5fd2bc2df03bab",
+    "url": "/presentation-card/static/js/main.9facb6a6.chunk.js"
   },
   {
     "revision": "c276c35dfcfefc0a5534",
@@ -30,10 +30,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c9e8d42247192ca6ab3f864fcf3f60e",
     "url": "/presentation-card/static/media/custom.3c9e8d42.jp2"
-  },
-  {
-    "revision": "a5c1c48d2fdc3055478bba6f8158c083",
-    "url": "/presentation-card/static/media/img5.a5c1c48d.jp2"
   },
   {
     "revision": "803f28561259a2798a2a0fb7a5f52a57",
@@ -50,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea3de1cd0291d47ea3ee0c8a2c467178",
     "url": "/presentation-card/static/media/teoria_grafo.ea3de1cd.jp2"
+  },
+  {
+    "revision": "309c23151eb9487337a56c9068cc713c",
+    "url": "/presentation-card/static/media/yo.309c2315.jp2"
   }
 ]);
