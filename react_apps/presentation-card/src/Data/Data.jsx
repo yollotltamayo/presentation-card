@@ -1,5 +1,5 @@
-import tg from '../assets/teoria_grafo.png'
-import mn from '../assets/metodos_numericos.png'
+import tg from '../assets/teoria_grafo.jp2'
+import mn from '../assets/metodos_numericos.jp2'
 
 
 const Data = 

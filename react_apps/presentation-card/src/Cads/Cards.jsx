@@ -7,7 +7,7 @@ import Data2 from '../Data/Data2'
 //import Col from 'react-bootstrap/Col'
 //import './card-sty
 import Button from 'react-bootstrap/Button'
-import cat from '../assets/custom.png'
+import cat from '../assets/custom.jp2'
 function Cardses(props) {
     const render = (card,index ) => {
             return (

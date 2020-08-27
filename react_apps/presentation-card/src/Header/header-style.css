@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Mono&display=swap'); /* import hallo fon*/
 .jumbotron{
-  /*   background: rgb(195,218,223);
-  background:transparent;
-  background: linear-gradient(90deg, rgba(195,218,223,1) 1%, rgba(190,163,188,1) 100%, rgba(2,0,36,1) 100%);
-  background:transparent;*/
 border-radius:10px !important;
 box-shadow: 0 8px 16px -6px black;
 background: rgb(195,218,223);
