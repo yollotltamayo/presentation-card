@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/presentation-card/static/css/main.ea120f84.chunk.css",
-    "main.js": "/presentation-card/static/js/main.324d4c2b.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.324d4c2b.chunk.js.map",
+    "main.css": "/presentation-card/static/css/main.d51f8b09.chunk.css",
+    "main.js": "/presentation-card/static/js/main.41266cfe.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.41266cfe.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
-    "static/js/2.ff403d13.chunk.js": "/presentation-card/static/js/2.ff403d13.chunk.js",
-    "static/js/2.ff403d13.chunk.js.map": "/presentation-card/static/js/2.ff403d13.chunk.js.map",
+    "static/js/2.c7db909f.chunk.js": "/presentation-card/static/js/2.c7db909f.chunk.js",
+    "static/js/2.c7db909f.chunk.js.map": "/presentation-card/static/js/2.c7db909f.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.724fb0a3436557b4e5933cabd00b9503.js": "/presentation-card/precache-manifest.724fb0a3436557b4e5933cabd00b9503.js",
+    "precache-manifest.48badaae3bed8ae99e10798b73c4141f.js": "/presentation-card/precache-manifest.48badaae3bed8ae99e10798b73c4141f.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
-    "static/css/main.ea120f84.chunk.css.map": "/presentation-card/static/css/main.ea120f84.chunk.css.map",
-    "static/js/2.ff403d13.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.ff403d13.chunk.js.LICENSE.txt",
+    "static/css/main.d51f8b09.chunk.css.map": "/presentation-card/static/css/main.d51f8b09.chunk.css.map",
+    "static/js/2.c7db909f.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.c7db909f.chunk.js.LICENSE.txt",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.6ccf772c.jp2",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.ff403d13.chunk.js",
-    "static/css/main.ea120f84.chunk.css",
-    "static/js/main.324d4c2b.chunk.js"
+    "static/js/2.c7db909f.chunk.js",
+    "static/css/main.d51f8b09.chunk.css",
+    "static/js/main.41266cfe.chunk.js"
   ]
 }
