@@ -1,35 +1,34 @@
 {
   "files": {
-    "main.css": "/presentation-card/static/css/main.a58fd33d.chunk.css",
-    "main.js": "/presentation-card/static/js/main.ef7bde58.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.ef7bde58.chunk.js.map",
+    "main.css": "/presentation-card/static/css/main.babb8802.chunk.css",
+    "main.js": "/presentation-card/static/js/main.9d84ee6f.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.9d84ee6f.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
     "static/js/2.281a7497.chunk.js": "/presentation-card/static/js/2.281a7497.chunk.js",
     "static/js/2.281a7497.chunk.js.map": "/presentation-card/static/js/2.281a7497.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.b98206a74a637fcc092009f49a20e898.js": "/presentation-card/precache-manifest.b98206a74a637fcc092009f49a20e898.js",
+    "precache-manifest.4cdaf30d424699cf08af16ce1603bc66.js": "/presentation-card/precache-manifest.4cdaf30d424699cf08af16ce1603bc66.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a58fd33d.chunk.css.map": "/presentation-card/static/css/main.a58fd33d.chunk.css.map",
+    "static/css/main.babb8802.chunk.css.map": "/presentation-card/static/css/main.babb8802.chunk.css.map",
     "static/js/2.281a7497.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.281a7497.chunk.js.LICENSE.txt",
-    "static/media/bf.png": "/presentation-card/static/media/bf.55b774e0.png",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
-    "static/media/gote.png": "/presentation-card/static/media/gote.6ea95d5b.png",
+    "static/media/gote.png": "/presentation-card/static/media/gote.7c4d119d.png",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.6ccf772c.jp2",
-    "static/media/qt.png": "/presentation-card/static/media/qt.76f14dda.png",
+    "static/media/qt.png": "/presentation-card/static/media/qt.c1d0f4ff.png",
     "static/media/resume.pdf": "/presentation-card/static/media/resume.5c3d6135.pdf",
     "static/media/teoria_grafo.jp2": "/presentation-card/static/media/teoria_grafo.cae77056.jp2",
-    "static/media/time.png": "/presentation-card/static/media/time.99aa5c10.png",
+    "static/media/time.png": "/presentation-card/static/media/time.89ac9dcf.png",
     "static/media/yo.jp2": "/presentation-card/static/media/yo.309c2315.jp2"
   },
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.281a7497.chunk.js",
-    "static/css/main.a58fd33d.chunk.css",
-    "static/js/main.ef7bde58.chunk.js"
+    "static/css/main.babb8802.chunk.css",
+    "static/js/main.9d84ee6f.chunk.js"
   ]
 }
