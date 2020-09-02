@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/presentation-card/static/css/main.d51f8b09.chunk.css",
-    "main.js": "/presentation-card/static/js/main.5ccb3f6a.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.5ccb3f6a.chunk.js.map",
+    "main.js": "/presentation-card/static/js/main.b5f2c602.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.b5f2c602.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
-    "static/js/2.c7db909f.chunk.js": "/presentation-card/static/js/2.c7db909f.chunk.js",
-    "static/js/2.c7db909f.chunk.js.map": "/presentation-card/static/js/2.c7db909f.chunk.js.map",
+    "static/js/2.6f51bb36.chunk.js": "/presentation-card/static/js/2.6f51bb36.chunk.js",
+    "static/js/2.6f51bb36.chunk.js.map": "/presentation-card/static/js/2.6f51bb36.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.067e082051e9f91747f94fb3c395e16c.js": "/presentation-card/precache-manifest.067e082051e9f91747f94fb3c395e16c.js",
+    "precache-manifest.1820ab77bfdaeae8aa61d33debe1b2d5.js": "/presentation-card/precache-manifest.1820ab77bfdaeae8aa61d33debe1b2d5.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
     "static/css/main.d51f8b09.chunk.css.map": "/presentation-card/static/css/main.d51f8b09.chunk.css.map",
-    "static/js/2.c7db909f.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.c7db909f.chunk.js.LICENSE.txt",
+    "static/js/2.6f51bb36.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.6f51bb36.chunk.js.LICENSE.txt",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.6ccf772c.jp2",
@@ -24,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.c7db909f.chunk.js",
+    "static/js/2.6f51bb36.chunk.js",
     "static/css/main.d51f8b09.chunk.css",
-    "static/js/main.5ccb3f6a.chunk.js"
+    "static/js/main.b5f2c602.chunk.js"
   ]
 }
