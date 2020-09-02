@@ -1,31 +1,35 @@
 {
   "files": {
-    "main.css": "/presentation-card/static/css/main.d51f8b09.chunk.css",
-    "main.js": "/presentation-card/static/js/main.b5f2c602.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.b5f2c602.chunk.js.map",
+    "main.css": "/presentation-card/static/css/main.a58fd33d.chunk.css",
+    "main.js": "/presentation-card/static/js/main.ef7bde58.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.ef7bde58.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
-    "static/js/2.6f51bb36.chunk.js": "/presentation-card/static/js/2.6f51bb36.chunk.js",
-    "static/js/2.6f51bb36.chunk.js.map": "/presentation-card/static/js/2.6f51bb36.chunk.js.map",
+    "static/js/2.281a7497.chunk.js": "/presentation-card/static/js/2.281a7497.chunk.js",
+    "static/js/2.281a7497.chunk.js.map": "/presentation-card/static/js/2.281a7497.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.1820ab77bfdaeae8aa61d33debe1b2d5.js": "/presentation-card/precache-manifest.1820ab77bfdaeae8aa61d33debe1b2d5.js",
+    "precache-manifest.b98206a74a637fcc092009f49a20e898.js": "/presentation-card/precache-manifest.b98206a74a637fcc092009f49a20e898.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
-    "static/css/main.d51f8b09.chunk.css.map": "/presentation-card/static/css/main.d51f8b09.chunk.css.map",
-    "static/js/2.6f51bb36.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.6f51bb36.chunk.js.LICENSE.txt",
+    "static/css/main.a58fd33d.chunk.css.map": "/presentation-card/static/css/main.a58fd33d.chunk.css.map",
+    "static/js/2.281a7497.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.281a7497.chunk.js.LICENSE.txt",
+    "static/media/bf.png": "/presentation-card/static/media/bf.55b774e0.png",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
+    "static/media/gote.png": "/presentation-card/static/media/gote.6ea95d5b.png",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.6ccf772c.jp2",
+    "static/media/qt.png": "/presentation-card/static/media/qt.76f14dda.png",
     "static/media/resume.pdf": "/presentation-card/static/media/resume.5c3d6135.pdf",
     "static/media/teoria_grafo.jp2": "/presentation-card/static/media/teoria_grafo.cae77056.jp2",
+    "static/media/time.png": "/presentation-card/static/media/time.99aa5c10.png",
     "static/media/yo.jp2": "/presentation-card/static/media/yo.309c2315.jp2"
   },
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.6f51bb36.chunk.js",
-    "static/css/main.d51f8b09.chunk.css",
-    "static/js/main.b5f2c602.chunk.js"
+    "static/js/2.281a7497.chunk.js",
+    "static/css/main.a58fd33d.chunk.css",
+    "static/js/main.ef7bde58.chunk.js"
   ]
 }
