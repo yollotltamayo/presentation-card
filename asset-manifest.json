@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/presentation-card/static/css/main.0f098248.chunk.css",
-    "main.js": "/presentation-card/static/js/main.5cf69f8a.chunk.js",
-    "main.js.map": "/presentation-card/static/js/main.5cf69f8a.chunk.js.map",
+    "main.css": "/presentation-card/static/css/main.4741f327.chunk.css",
+    "main.js": "/presentation-card/static/js/main.18610f0c.chunk.js",
+    "main.js.map": "/presentation-card/static/js/main.18610f0c.chunk.js.map",
     "runtime-main.js": "/presentation-card/static/js/runtime-main.f56a3020.js",
     "runtime-main.js.map": "/presentation-card/static/js/runtime-main.f56a3020.js.map",
     "static/css/2.11829350.chunk.css": "/presentation-card/static/css/2.11829350.chunk.css",
-    "static/js/2.5f219d09.chunk.js": "/presentation-card/static/js/2.5f219d09.chunk.js",
-    "static/js/2.5f219d09.chunk.js.map": "/presentation-card/static/js/2.5f219d09.chunk.js.map",
+    "static/js/2.d025e753.chunk.js": "/presentation-card/static/js/2.d025e753.chunk.js",
+    "static/js/2.d025e753.chunk.js.map": "/presentation-card/static/js/2.d025e753.chunk.js.map",
     "index.html": "/presentation-card/index.html",
-    "precache-manifest.eac7bd9e16adde93c00e4f57f7f6a365.js": "/presentation-card/precache-manifest.eac7bd9e16adde93c00e4f57f7f6a365.js",
+    "precache-manifest.4ed1059ffbd2ce21412c389bac125256.js": "/presentation-card/precache-manifest.4ed1059ffbd2ce21412c389bac125256.js",
     "service-worker.js": "/presentation-card/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/presentation-card/static/css/2.11829350.chunk.css.map",
-    "static/css/main.0f098248.chunk.css.map": "/presentation-card/static/css/main.0f098248.chunk.css.map",
-    "static/js/2.5f219d09.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.5f219d09.chunk.js.LICENSE.txt",
+    "static/css/main.4741f327.chunk.css.map": "/presentation-card/static/css/main.4741f327.chunk.css.map",
+    "static/js/2.d025e753.chunk.js.LICENSE.txt": "/presentation-card/static/js/2.d025e753.chunk.js.LICENSE.txt",
     "static/media/custom.jp2": "/presentation-card/static/media/custom.3c9e8d42.jp2",
     "static/media/gote.png": "/presentation-card/static/media/gote.7c4d119d.png",
     "static/media/lil_cat.jp2": "/presentation-card/static/media/lil_cat.803f2856.jp2",
     "static/media/metodos_numericos.jp2": "/presentation-card/static/media/metodos_numericos.6ccf772c.jp2",
     "static/media/qt.png": "/presentation-card/static/media/qt.0ce55d11.png",
     "static/media/resume.pdf": "/presentation-card/static/media/resume.e78f228d.pdf",
-    "static/media/sorbito.jpg": "/presentation-card/static/media/sorbito.adb180ad.jpg",
     "static/media/teoria_grafo.jp2": "/presentation-card/static/media/teoria_grafo.cae77056.jp2",
     "static/media/time.png": "/presentation-card/static/media/time.89ac9dcf.png",
     "static/media/yo.jp2": "/presentation-card/static/media/yo.309c2315.jp2"
@@ -28,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.f56a3020.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.5f219d09.chunk.js",
-    "static/css/main.0f098248.chunk.css",
-    "static/js/main.5cf69f8a.chunk.js"
+    "static/js/2.d025e753.chunk.js",
+    "static/css/main.4741f327.chunk.css",
+    "static/js/main.18610f0c.chunk.js"
   ]
 }
